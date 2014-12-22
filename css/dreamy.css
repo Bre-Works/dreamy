@@ -1,0 +1,56 @@
+h1{
+	font-family: ‘Roboto’, sans-serif;
+	font-weight: 300; 
+}
+
+h2 {
+	font-family: ‘Roboto’, sans-serif;
+	font-weight: 300; 
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400; 
+}
+
+.title {
+	font-family: 'Calligraffitti', cursive;
+	font-weight: 400; 
+}
+
+.yellow {
+	background-color: #F2D0A2;
+	color: white;
+}
+
+.grey {
+	background-color: #E8E9EA;
+	padding-top: 10px;
+}
+
+.footer-level-2 {
+	width: 100%;
+	background-color: #F2D0A2;
+	padding-top: 30px;
+	padding-bottom: 70px;
+	margin-top: 60px;
+}
+
+.footer-level-1 {
+	width: 100%;
+	background-color: #565656;
+	padding-top: 40px;
+	padding-bottom: 70px;
+	color: white;
+	padding-left: 40px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+a {
+	color: white;
+}
+
